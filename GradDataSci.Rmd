@@ -1,0 +1,21 @@
+---
+title: "Data Science for PhD student in BioSci"
+author: "KRT"
+date: "March 2, 2015"
+output: pdf_document
+---
+
+#Objective
+
+Students doing PhDs in the Biological Sciences are required to deal with large data sets growing larger at an unprecedented rate.  Current PhD programs in BioSci at UCI are not adequately training students in how to handle such tasks.  This lack of training results in at least the following issues (from most common to, hopefully, the least common):
+
+1. Disorganization
+2. Irreproducible research
+3. Publication of erroneous results
+4. Publication of fradulent results
+
+This course covers several concepts and tools that cover a suite of "best practices" that, when implemented as a regular part of day-to-day research, solve these issues.
+
+#Course structure
+
+Two meetings per week.  One lecture/overview per topic (Tuesday) and one practical session led by a team of graduate students (Thursday).  During the practical session, students will actively use tools and apply concepts to relevant data sets.
