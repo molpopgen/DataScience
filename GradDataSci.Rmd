@@ -19,3 +19,16 @@ This course covers several concepts and tools that cover a suite of "best practi
 #Course structure
 
 Two meetings per week.  One lecture/overview per topic (Tuesday) and one practical session led by a team of graduate students (Thursday).  During the practical session, students will actively use tools and apply concepts to relevant data sets.
+
+#Tentative topics (10 wks)
+
+* Week 1: Set up UCI HPC accounts for students and GitHub accounts.  Students will join a GitHub "organization" for the course.  Discuss challenges of data science in general.
+* Week 2: Using git/GitHub (first week of practicals, too)
+* Week 3: [Rstudio](www.rstudio.com)
+* Week 4: Data manipulation in R -- data.table, dplyr.  Learn how to read data from remote servers.
+* Week 5: Plotting in R -- base graphics and ggplot2
+* Week 6: Reproducible research reports -- Rmd, Rnw (the latter is not for the faint of heart).  Emphasize that Rmd documents are one form of a "lab notebook" for computational work.  For writing papers, Rnw lets you put _numbers in your paper based on calculations done when the manuscript is processed, meaning it is always up to date._
+* Week 7: Data sharing: [iPlant collaborative](http://www.iplantcollaborative.org), [Dryad](http://datadryad.org), sharing via UCI HPC.  The pros and cons of each approach.  Emphasize how it is relatively easy to share large data sets.
+* Week 8: [iPython Notebook](http://ipython.org/notebook.html)--an alternative to Rstudio
+* Week 9: Advanced topics: file formats (binary, [hdf5](http://www.hdfgroup.org/HDF5/)), managing large workflows on clusters like HPC.  How not to get yelled at by our IT guys.
+* Week 10: Where to go from here.  Additional training available at UCI.  When "big data" is too big for "regular" R: Rcpp, etc.
